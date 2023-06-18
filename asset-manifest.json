@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cloud-form/static/css/main.6339b5c2.css",
-    "main.js": "/cloud-form/static/js/main.0d2a8d07.js",
-    "index.html": "/cloud-form/index.html",
-    "static/media/drop-chevron.svg": "/cloud-form/static/media/drop-chevron.9123423a0602e640c99c929ec1413ca8.svg",
-    "main.6339b5c2.css.map": "/cloud-form/static/css/main.6339b5c2.css.map",
-    "main.0d2a8d07.js.map": "/cloud-form/static/js/main.0d2a8d07.js.map"
+    "main.css": "/static/css/main.6339b5c2.css",
+    "main.js": "/static/js/main.c1bcf49d.js",
+    "index.html": "/index.html",
+    "static/media/drop-chevron.svg": "/static/media/drop-chevron.9123423a0602e640c99c929ec1413ca8.svg",
+    "main.6339b5c2.css.map": "/static/css/main.6339b5c2.css.map",
+    "main.c1bcf49d.js.map": "/static/js/main.c1bcf49d.js.map"
   },
   "entrypoints": [
     "static/css/main.6339b5c2.css",
-    "static/js/main.0d2a8d07.js"
+    "static/js/main.c1bcf49d.js"
   ]
 }
